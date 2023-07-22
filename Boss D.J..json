@@ -1,0 +1,882 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/659",
+ "description": {
+  "plain": "Sublime was an American ska punk and alternative rock band from Long Beach, California, formed in 1988. The band\u2019s line-up, unchanged until their breakup, consisted of Bradley Nowell (vocals and guitar), Eric Wilson (bass) and Bud Gaugh (drums). Lou Dog, Nowell\u2019s dalmatian, was the mascot of the band. Michael \u2018Miguel\u2019 Happoldt and Marshall Goodman \u201cRas MG\u201d contributed to and co-wrote several Sublime songs. Nowell died of a heroin overdose in 1996. In 1997, posthumous songs such as \u201cSanteria\u201d, \u201cWrong Way\u201d, \u201cDoin' Time\u201d, and \u201cApril 29, 1992 (Miami)\u201d were released to U.S. radio.\n\nSublime released three studio albums, one live album, five compilation albums (one of which also contains never-before released material), three EPs and one box set. Although their first two albums (40oz. to Freedom [1992] and Robbin' the Hood [1994]) were quite popular in the United States, Sublime did not experience major commercial success until 1996 with their self-titled third album. Released two months after Nowell\u2019s death, it peaked at number 13 on the Billboard 200 and spawned the single \u201cWhat I Got\u201d, which remains the band\u2019s only number one hit single (on the Billboard Alternative Songs chart) in their musical career. As of 2009, the band has sold over 17 million albums worldwide, including about 10 million in the U.S. alone.\n\nSee also Sublime With Rome, a collaboration between Eric Wilson and vocalist/guitarist Rome Ramirez who managed to release a few albums of their own."
+ },
+ "facebook_name": "Sublime",
+ "followers_count": 147,
+ "header_image_url": "https://images.genius.com/e63b5f899888e46f53fc6e679bd66c8e.183x276x1.jpg",
+ "id": 659,
+ "image_url": "https://images.genius.com/d61c1469f99333ef183ef8bee4141065.183x183x1.jpg",
+ "instagram_name": "sublime",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Sublime",
+ "translation_artist": false,
+ "twitter_name": "sublime",
+ "url": "https://genius.com/artists/Sublime",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "view_discography",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1553467,
+  "annotator_login": "RUAbadfish2",
+  "api_path": "/referents/6926568",
+  "classification": "accepted",
+  "fragment": "Sublime",
+  "id": 6926568,
+  "is_description": true,
+  "path": "/6926568/Sublime/Sublime",
+  "range": {
+   "content": "Sublime"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6926568/Sublime/Sublime",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/659",
+   "context": null,
+   "id": 659,
+   "image_url": "https://images.genius.com/d61c1469f99333ef183ef8bee4141065.183x183x1.jpg",
+   "link_title": "Sublime",
+   "title": "Sublime",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Sublime"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6926568",
+    "body": {
+     "plain": "Sublime was an American ska punk and alternative rock band from Long Beach, California, formed in 1988. The band\u2019s line-up, unchanged until their breakup, consisted of Bradley Nowell (vocals and guitar), Eric Wilson (bass) and Bud Gaugh (drums). Lou Dog, Nowell\u2019s dalmatian, was the mascot of the band. Michael \u2018Miguel\u2019 Happoldt and Marshall Goodman \u201cRas MG\u201d contributed to and co-wrote several Sublime songs. Nowell died of a heroin overdose in 1996. In 1997, posthumous songs such as \u201cSanteria\u201d, \u201cWrong Way\u201d, \u201cDoin' Time\u201d, and \u201cApril 29, 1992 (Miami)\u201d were released to U.S. radio.\n\nSublime released three studio albums, one live album, five compilation albums (one of which also contains never-before released material), three EPs and one box set. Although their first two albums (40oz. to Freedom [1992] and Robbin' the Hood [1994]) were quite popular in the United States, Sublime did not experience major commercial success until 1996 with their self-titled third album. Released two months after Nowell\u2019s death, it peaked at number 13 on the Billboard 200 and spawned the single \u201cWhat I Got\u201d, which remains the band\u2019s only number one hit single (on the Billboard Alternative Songs chart) in their musical career. As of 2009, the band has sold over 17 million albums worldwide, including about 10 million in the U.S. alone.\n\nSee also Sublime With Rome, a collaboration between Eric Wilson and vocalist/guitarist Rome Ramirez who managed to release a few albums of their own."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6926568,
+    "pinned": false,
+    "share_url": "https://genius.com/6926568",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6926568/Sublime/Sublime",
+    "verified": false,
+    "votes_total": 26,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.8958333333333333,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1553467",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/7c98a7028ba29e68498a21b50232d299",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/7c98a7028ba29e68498a21b50232d299",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/7c98a7028ba29e68498a21b50232d299",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/7c98a7028ba29e68498a21b50232d299",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/7c98a7028ba29e68498a21b50232d299",
+       "human_readable_role_for_display": "Editor",
+       "id": 1553467,
+       "iq": 5036,
+       "login": "RUAbadfish2",
+       "name": "RUAbadfish2",
+       "role_for_display": "editor",
+       "url": "https://genius.com/RUAbadfish2",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.10416666666666666,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1793633",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/402f982c45c1335b41012bd7b096eac5",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/402f982c45c1335b41012bd7b096eac5",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/402f982c45c1335b41012bd7b096eac5",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/402f982c45c1335b41012bd7b096eac5",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/402f982c45c1335b41012bd7b096eac5",
+       "human_readable_role_for_display": "Editor",
+       "id": 1793633,
+       "iq": 126319,
+       "login": "Nettacki",
+       "name": "Nettacki",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Nettacki",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/210787",
+   "artist_names": "Sublime",
+   "full_title": "40oz. to Freedom by\u00a0Sublime",
+   "header_image_thumbnail_url": "https://images.genius.com/b937cc969e0a10834d8fd908705502f3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b937cc969e0a10834d8fd908705502f3.1000x1000x1.jpg",
+   "id": 210787,
+   "lyrics_owner_id": 10380,
+   "lyrics_state": "complete",
+   "path": "/Sublime-40oz-to-freedom-lyrics",
+   "pyongs_count": 10,
+   "relationships_index_url": "https://genius.com/Sublime-40oz-to-freedom-sample",
+   "release_date_components": {
+    "year": 1992,
+    "month": 6,
+    "day": 1
+   },
+   "release_date_for_display": "June 1, 1992",
+   "release_date_with_abbreviated_month_for_display": "Jun. 1, 1992",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b937cc969e0a10834d8fd908705502f3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b937cc969e0a10834d8fd908705502f3.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 25,
+    "iq_earners": 25,
+    "transcribers": 3,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 89262
+   },
+   "title": "40oz. to Freedom",
+   "title_with_featured": "40oz. to Freedom",
+   "url": "https://genius.com/Sublime-40oz-to-freedom-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/659",
+    "header_image_url": "https://images.genius.com/e63b5f899888e46f53fc6e679bd66c8e.183x276x1.jpg",
+    "id": 659,
+    "image_url": "https://images.genius.com/d61c1469f99333ef183ef8bee4141065.183x183x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Sublime",
+    "url": "https://genius.com/artists/Sublime"
+   },
+   "apple_music_id": "1125505137",
+   "apple_music_player_url": "https://genius.com/songs/210787/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_210787' class='rg_embed_link' data-song-id='210787'>Read <a href='https://genius.com/Sublime-40oz-to-freedom-lyrics'>\u201c40oz. to Freedom\u201d by Sublime</a> on Genius</div> <script crossorigin src='//genius.com/songs/210787/embed.js'></script>",
+   "featured_video": false,
+   "language": "en",
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1992-06-01",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_mark_complete_button",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/26175",
+    "cover_art_url": "https://images.genius.com/b937cc969e0a10834d8fd908705502f3.1000x1000x1.jpg",
+    "full_title": "40oz. to Freedom by Sublime",
+    "id": 26175,
+    "name": "40oz. to Freedom",
+    "release_date_for_display": "June 1, 1992",
+    "url": "https://genius.com/albums/Sublime/40oz-to-freedom",
+    "artist": {
+     "api_path": "/artists/659",
+     "header_image_url": "https://images.genius.com/e63b5f899888e46f53fc6e679bd66c8e.183x276x1.jpg",
+     "id": 659,
+     "image_url": "https://images.genius.com/d61c1469f99333ef183ef8bee4141065.183x183x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sublime",
+     "url": "https://genius.com/artists/Sublime"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/57917",
+       "header_image_url": "https://images.genius.com/03ffdf7988ff39cd8a1100ff39933d11.400x400x1.jpg",
+       "id": 57917,
+       "image_url": "https://images.genius.com/03ffdf7988ff39cd8a1100ff39933d11.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Marshall Goodman",
+       "url": "https://genius.com/artists/Marshall-goodman"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/384193",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1689694985",
+       "id": 384193,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1689694985",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eric Wilson",
+       "url": "https://genius.com/artists/Eric-wilson"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/619786",
+       "header_image_url": "https://images.genius.com/8768836726f306fab045dd1503835c90.1000x674x1.jpg",
+       "id": 619786,
+       "image_url": "https://images.genius.com/5da40ace8164af04859d0fb28ab639a5.395x395x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bradley Nowell",
+       "url": "https://genius.com/artists/Bradley-nowell"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/619786",
+       "header_image_url": "https://images.genius.com/8768836726f306fab045dd1503835c90.1000x674x1.jpg",
+       "id": 619786,
+       "image_url": "https://images.genius.com/5da40ace8164af04859d0fb28ab639a5.395x395x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bradley Nowell",
+       "url": "https://genius.com/artists/Bradley-nowell"
+      }
+     ]
+    },
+    {
+     "label": "Photos by",
+     "artists": [
+      {
+       "api_path": "/artists/1226239",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1689694985",
+       "id": 1226239,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1689694985",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Coffman",
+       "url": "https://genius.com/artists/Josh-coffman"
+      }
+     ]
+    },
+    {
+     "label": "Artwork by",
+     "artists": [
+      {
+       "api_path": "/artists/1226238",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1689694985",
+       "id": 1226238,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1689694985",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Opie Ortiz",
+       "url": "https://genius.com/artists/Opie-ortiz"
+      }
+     ]
+    },
+    {
+     "label": "Mastered by",
+     "artists": [
+      {
+       "api_path": "/artists/637914",
+       "header_image_url": "https://images.genius.com/9ed2a5315fe0d92d7047de8f72fc66ff.508x800x1.jpg",
+       "id": 637914,
+       "image_url": "https://images.genius.com/83484709e5b3cacf10774eb0639fcc7d.508x508x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brian Gardner",
+       "url": "https://genius.com/artists/Brian-gardner"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1076653,
+    "annotator_login": "Xambassador",
+    "api_path": "/referents/3853630",
+    "classification": "needs_exegesis",
+    "fragment": "40oz. to Freedom",
+    "id": 3853630,
+    "is_description": true,
+    "path": "/3853630/Sublime-40oz-to-freedom/40oz-to-freedom",
+    "range": {
+     "content": "40oz. to Freedom"
+    },
+    "song_id": 210787,
+    "url": "https://genius.com/3853630/Sublime-40oz-to-freedom/40oz-to-freedom",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/210787",
+     "client_timestamps": {
+      "updated_by_human_at": 1677010646,
+      "lyrics_updated_at": 1677010646
+     },
+     "context": "Sublime",
+     "id": 210787,
+     "image_url": "https://images.genius.com/b937cc969e0a10834d8fd908705502f3.1000x1000x1.jpg",
+     "link_title": "40oz. to Freedom by\u00a0Sublime",
+     "title": "40oz. to Freedom",
+     "type": "Song",
+     "url": "https://genius.com/Sublime-40oz-to-freedom-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3853630",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3853630,
+      "pinned": false,
+      "share_url": "https://genius.com/3853630",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3853630/Sublime-40oz-to-freedom/40oz-to-freedom",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1076653",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/96739e3ec4c3fe641b05ed2fc8ff5d34",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/96739e3ec4c3fe641b05ed2fc8ff5d34",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/96739e3ec4c3fe641b05ed2fc8ff5d34",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/96739e3ec4c3fe641b05ed2fc8ff5d34",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/96739e3ec4c3fe641b05ed2fc8ff5d34",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1076653,
+         "iq": 926,
+         "login": "Xambassador",
+         "name": "Xambassador",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Xambassador",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:4qvMZBtrZxZlUl9nPR2p0y",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4qvMZBtrZxZlUl9nPR2p0y"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=frZYnbChUdg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/659",
+     "header_image_url": "https://images.genius.com/e63b5f899888e46f53fc6e679bd66c8e.183x276x1.jpg",
+     "id": 659,
+     "image_url": "https://images.genius.com/d61c1469f99333ef183ef8bee4141065.183x183x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sublime",
+     "url": "https://genius.com/artists/Sublime"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/7479890",
+       "artist_names": "The Hood Internet",
+       "full_title": "1992 by\u00a0The\u00a0Hood Internet",
+       "header_image_thumbnail_url": "https://images.genius.com/80a277c9390e79e614b3ac4e85d5480e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/80a277c9390e79e614b3ac4e85d5480e.500x500x1.jpg",
+       "id": 7479890,
+       "lyrics_owner_id": 15415452,
+       "lyrics_state": "complete",
+       "path": "/The-hood-internet-1992-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-hood-internet-1992-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 10,
+        "day": 15
+       },
+       "release_date_for_display": "October 15, 2020",
+       "release_date_with_abbreviated_month_for_display": "Oct. 15, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/80a277c9390e79e614b3ac4e85d5480e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/80a277c9390e79e614b3ac4e85d5480e.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "1992",
+       "title_with_featured": "1992",
+       "url": "https://genius.com/The-hood-internet-1992-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2287",
+        "header_image_url": "https://images.genius.com/251b02b05dc7fcbc9ff745d294b2623e.500x500x1.jpg",
+        "id": 2287,
+        "image_url": "https://images.genius.com/251b02b05dc7fcbc9ff745d294b2623e.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Hood Internet",
+        "url": "https://genius.com/artists/The-hood-internet"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2881328",
+       "artist_names": "Ballyhoo!",
+       "full_title": "40 Oz. To Freedom by\u00a0Ballyhoo!",
+       "header_image_thumbnail_url": "https://images.genius.com/58fdbebaf4acddf11865d17fca542fd6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/58fdbebaf4acddf11865d17fca542fd6.400x400x1.jpg",
+       "id": 2881328,
+       "lyrics_owner_id": 1939756,
+       "lyrics_state": "complete",
+       "path": "/Ballyhoo-40-oz-to-freedom-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ballyhoo-40-oz-to-freedom-sample",
+       "release_date_components": {
+        "year": 2006,
+        "month": 1,
+        "day": 24
+       },
+       "release_date_for_display": "January 24, 2006",
+       "release_date_with_abbreviated_month_for_display": "Jan. 24, 2006",
+       "song_art_image_thumbnail_url": "https://images.genius.com/58fdbebaf4acddf11865d17fca542fd6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/58fdbebaf4acddf11865d17fca542fd6.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "40 Oz. To Freedom",
+       "title_with_featured": "40 Oz. To Freedom",
+       "url": "https://genius.com/Ballyhoo-40-oz-to-freedom-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/131374",
+        "header_image_url": "https://images.genius.com/06e9c420452c882d71ad896ea7021755.640x480x1.jpg",
+        "id": 131374,
+        "image_url": "https://images.genius.com/a81eb797c2c3ae23d93759a0879a63c4.480x480x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ballyhoo!",
+        "url": "https://genius.com/artists/Ballyhoo",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/9164306",
+       "artist_names": "Sublime",
+       "full_title": "40oz. To Freedom (Live At Tressel Tavern, 1994) by\u00a0Sublime",
+       "header_image_thumbnail_url": "https://images.genius.com/e5f24592cc891dd0a9c10665d1ce4c56.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e5f24592cc891dd0a9c10665d1ce4c56.1000x1000x1.jpg",
+       "id": 9164306,
+       "lyrics_owner_id": 13438383,
+       "lyrics_state": "complete",
+       "path": "/Sublime-40oz-to-freedom-live-at-tressel-tavern-1994-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sublime-40oz-to-freedom-live-at-tressel-tavern-1994-sample",
+       "release_date_components": {
+        "year": 2023,
+        "month": 4,
+        "day": 21
+       },
+       "release_date_for_display": "April 21, 2023",
+       "release_date_with_abbreviated_month_for_display": "Apr. 21, 2023",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e5f24592cc891dd0a9c10665d1ce4c56.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e5f24592cc891dd0a9c10665d1ce4c56.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "40oz. To Freedom (Live At Tressel Tavern, 1994)",
+       "title_with_featured": "40oz. To Freedom (Live At Tressel Tavern, 1994)",
+       "url": "https://genius.com/Sublime-40oz-to-freedom-live-at-tressel-tavern-1994-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/659",
+        "header_image_url": "https://images.genius.com/e63b5f899888e46f53fc6e679bd66c8e.183x276x1.jpg",
+        "id": 659,
+        "image_url": "https://images.genius.com/d61c1469f99333ef183ef8bee4141065.183x183x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sublime",
+        "url": "https://genius.com/artists/Sublime"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/57917",
+     "header_image_url": "https://images.genius.com/03ffdf7988ff39cd8a1100ff39933d11.400x400x1.jpg",
+     "id": 57917,
+     "image_url": "https://images.genius.com/03ffdf7988ff39cd8a1100ff39933d11.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marshall Goodman",
+     "url": "https://genius.com/artists/Marshall-goodman"
+    },
+    {
+     "api_path": "/artists/619786",
+     "header_image_url": "https://images.genius.com/8768836726f306fab045dd1503835c90.1000x674x1.jpg",
+     "id": 619786,
+     "image_url": "https://images.genius.com/5da40ace8164af04859d0fb28ab639a5.395x395x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bradley Nowell",
+     "url": "https://genius.com/artists/Bradley-nowell"
+    }
+   ],
+   "artist": "Sublime",
+   "lyrics": "25 Contributors40oz. to Freedom Lyrics[Verse 1]\nGot your hair permed, you've got your red dress on\nScreaming that second gear was such a turn-on\nAnd the fog forming on my window tells me that the morning's here\nAnd you'll be gone before too long\nWho taught you those new tricks? Damn, I shouldn't start that talk\nBut life is one big question when you're starin' at the clock\nAnd the answer's always waiting at the liquor store\n40 ounces to freedom so I'll take that walk\nAnd I know that\n\n[Chorus]\nOh, I'm not going back\nOh, not going back\nOh, God knows, I'm not going back\nOh, I not going\n\n[Verse 2]\nAnd you look so fine, when you lie, it just don't show\nBut I know which way the wind blows\nA 40 ounce to freedom is the only chance I have\nTo feel good, even though I feel bad\nAnd I know that\n\n[Chorus]\nOh, I'm not going back\nOh, I'm not going back\nOh, God knows (God knows) I'm not going back\nOh, I, not going\nYou might also like[Instrumental Bridge]\n\n[Chorus]\nOh, ah (ah) I'm not going back\nOh, I'm not going back\nOh, God knows (God knows) not going back\nOh10Embed"
+  }
+ ]
+}
